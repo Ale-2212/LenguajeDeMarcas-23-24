@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Store>
+<store>
+    <product name="Laptop">
+        <category>Electronics</category>
+        <features>
+            <feature name="Brand" value="XYZ Company"/>
+            <feature name="Processor" value="Intel Core i7"/>
+            <feature name="RAM" value="16GB"/>
+            <feature name="Storage" value="512GB SSD"/>
+        </features>
+    </product>
+    <product name="Running Shoes">
+        <category>Footwear</category>
+        <features>
+            <feature name="Brand" value="ABC Sports"/>
+            <feature name="Size" value="10"/>
+            <feature name="Color" value="Black/Red"/>
+            <feature name="Type" value="Athletic"/>
+        </features>
+    </product>
+    <product name="Coffee Maker">
+        <category>Appliances</category>
+        <features>
+            <feature name="Brand" value="HomeTech"/>
+            <feature name="Capacity" value="12 cups"/>
+            <feature name="Type" value="Drip Coffee Maker"/>
+            <feature name="Color" value="Silver"/>
+        </features>
+    </product>
+</store>

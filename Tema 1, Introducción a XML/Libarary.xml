@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Libarary>
+    <Libarary>
+        <book title="To Kill a Mockingbird" author="Harper Lee" year="1960">
+            <category>Fiction</category>
+            <description>A classic novel set in the American South during the 1930s. It addresses issues of racial injustice and moral growth.</description>
+        </book>
+        <book title="Sapiens: A Brief History of Humankind" author="Yuval Noah Harari" year="2014">
+            <category>Non-Fiction</category>
+            <description>An exploration of the history of Homo sapiens, from ancient times to the present, covering significant events that shaped human evolution.</description>
+        </book>
+        <book title="Introduction to Algorithms" author="Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein" year="2009">
+            <category>Science</category>
+            <description>A comprehensive guide to algorithms, their design, analysis, and implementation, widely used as a textbook in computer science courses.</description>
+        </book>
+        <book title="The Art of Happiness" author="Dalai Lama and Howard Cutler" year="1998">
+            <category>Self-Help</category>
+            <description>An exploration of the concepts of happiness, fulfillment, and the practices that lead to a meaningful and joyful life, blending Eastern philosophy and Western psychology.</description>
+        </book>
+    </Libarary>
