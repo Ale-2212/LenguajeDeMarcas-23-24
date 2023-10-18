@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ShoppingCenter>
+<ShoppingCenter>
+    <Store1 name="Tienda1">
+        <Plots>1 y 2</Plots>
+        <SquareMeters>100</SquareMeters>
+        <Manager NSS="546416186">
+            <firstname>Pepe</firstname>
+            <lastname>Gonzalez</lastname>
+            <contactphone>155462</contactphone>
+        </Manager>
+    </Store1>
+    <Store2 name="Tienda2">
+        <Plots>4</Plots>
+        <SquareMeters>105</SquareMeters>
+        <Manager NSS="6845341346">
+            <firstname>Nico</firstname>
+            <lastname>Gonzalez</lastname>
+            <contactphone>6343153</contactphone>
+        </Manager>
+    </Store2>
+    <Store3 name="Tienda3">
+        <Plots>5,6,7 y 8</Plots>
+        <SquareMeters>300</SquareMeters>
+        <Manager NSS="857548486">
+            <firstname>Marc</firstname>
+            <lastname>Roca</lastname>
+            <contactphone>8946541684</contactphone>
+        </Manager>
+    </Store3>
+    <Store4 name="Tienda4">
+        <Plots>9 y 10</Plots>
+        <SquareMeters>200</SquareMeters>
+        <Manager NSS="22">
+            <firstname>Francisco</firstname>
+            <lastname>Alarcón</lastname>
+            <contactphone>22222222222</contactphone>
+        </Manager>
+    </Store4>
+    <Store5 name="Tienda5">
+        <Plots>11</Plots>
+        <SquareMeters>50</SquareMeters>
+        <Manager NSS="63416516">
+            <firstname>Nabil</firstname>
+            <lastname>Fekir</lastname>
+            <contactphone>64165131</contactphone>
+        </Manager>
+    </Store5>
+    <Store6 name="Tienda6">
+        <Plots>12,13 y 14</Plots>
+        <SquareMeters>200</SquareMeters>
+        <Manager NSS="6416184">
+            <firstname>Carlos</firstname>
+            <lastname>Vela</lastname>
+            <contactphone>68465415168</contactphone>
+        </Manager>
+    </Store6>
+    <Store7 name="Cadiz">
+        <Plots>15</Plots>
+        <SquareMeters>100</SquareMeters>
+        <Manager NSS="64165164">
+            <firstname>Magico</firstname>
+            <lastname>Gonzalez</lastname>
+            <contactphone>54164156</contactphone>
+        </Manager>
+    </Store7>
+    <Store8 name="Tienda8">
+        <Plots>16</Plots>
+        <SquareMeters>10</SquareMeters>
+        <Manager NSS="564684864">
+            <firstname>Antonio</firstname>
+            <lastname>Blanco</lastname>
+            <contactphone>668464164</contactphone>
+        </Manager>
+    </Store8>
+    <Store9 name="Tienda9">
+        <Plots>17</Plots>
+        <SquareMeters>20</SquareMeters>
+        <Manager NSS="5641651">
+            <firstname>Miguel</firstname>
+            <lastname>Gutierrez</lastname>
+            <contactphone>+4566161</contactphone>
+        </Manager>
+    </Store9>
+    <Store10 name="Tienda10">
+        <Plots>3</Plots>
+        <SquareMeters>30</SquareMeters>
+        <Manager NSS="68416531864">
+            <firstname>Alvaro</firstname>
+            <lastname>Negredo</lastname>
+            <contactphone>641616341854</contactphone>
+        </Manager>
+    </Store10>
+</ShoppingCenter>

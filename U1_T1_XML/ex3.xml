@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE CarDealership>
+<CarDealership>
+    <Brand1 name="Porsche">
+        <OriginCountry>Germany</OriginCountry>
+        <Car1 model="18 Cayman">
+            <Licenseplate>7894NV</Licenseplate>
+            <Year>2016</Year>
+            <Seats>2</Seats>
+            <EngineCV>300</EngineCV>
+        </Car1>
+        <Car2 model="911 Carrera">
+            <Licenseplate>456123MA</Licenseplate>
+            <Year>1995</Year>
+            <Seats>2</Seats>
+            <EngineCV>480</EngineCV>
+        </Car2>
+    </Brand1>
+    <Brand2 name="Mustang">
+        <OriginCountry>EEUU</OriginCountry>
+        <Car1 model="Shelby GT500">
+            <Licenseplate>64518318QX</Licenseplate>
+            <Year>1967</Year>
+            <Seats>2</Seats>
+            <EngineCV>600</EngineCV>
+        </Car1>
+        <Car2 model="Shelby Cobra">
+            <Licenseplate>84516845NT</Licenseplate>
+            <Year>2017</Year>
+            <Seats>2</Seats>
+            <EngineCV>771</EngineCV>
+        </Car2>
+    </Brand2>
+    <Brand3 name="Mercedes">
+        <OriginCountry>Germany</OriginCountry>
+        <Car1 model="Amg A45">
+            <Licenseplate>549684151FG</Licenseplate>
+            <Year>2020</Year>
+            <Seats>4</Seats>
+            <EngineCV>412</EngineCV>
+        </Car1>
+        <Car2 model="280 SL">
+            <Licenseplate>69418187QR</Licenseplate>
+            <Year>1970</Year>
+            <Seats>4</Seats>
+            <EngineCV>193</EngineCV>
+        </Car2>
+    </Brand3>
+    <Brand4 name="BMW">
+        <OriginCountry>Germany</OriginCountry>
+        <Car1 model="E30">
+            <Licenseplate>645163541ER</Licenseplate>
+            <Year>1991</Year>
+            <Seats>4</Seats>
+            <EngineCV>220</EngineCV>
+        </Car1>
+        <Car2 model="E46">
+            <Licenseplate>6415314AD</Licenseplate>
+            <Year>1998</Year>
+            <Seats>4</Seats>
+            <EngineCV>105</EngineCV>
+        </Car2>
+    </Brand4>
+    <Brand5 name="Plymouth">
+        <OriginCountry>EEUU</OriginCountry>
+        <Car1 model="Barracuda">
+            <Licenseplate>7894151BV</Licenseplate>
+            <Year>1973</Year>
+            <Seats>2</Seats>
+            <EngineCV>390</EngineCV>
+        </Car1>
+        <Car2 model="SuperBird">
+            <Licenseplate>78951LÑ</Licenseplate>
+            <Year>1970</Year>
+            <Seats>2</Seats>
+            <EngineCV>425</EngineCV>
+        </Car2>
+    </Brand5>
+</CarDealership>
